@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+# Mshikaki Labs
+
+At Mshikaki Labs, we are dedicated to providing top-notch IT solutions tailored to your unique business needs. Our team of experts is committed to delivering cutting-edge services in web design, cybersecurity, blockchain development, and more.
+
 **Mshikaki-Labs/Mshikaki-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
